@@ -1,0 +1,2 @@
+url: https://aacthjwwnizzzbddarug.supabase.co
+key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFhY3Roand3bml6enpiZGRhcnVnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU0NzA4NzAsImV4cCI6MjA1MTA0Njg3MH0.P4z2ElwDOZp-pkLBXjYteRY3bYeFjYB2GR8VCUta8k4
